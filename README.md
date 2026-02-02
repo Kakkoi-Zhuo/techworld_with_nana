@@ -1,2 +1,2 @@
 This is my new project!
-Changes in remote branch!
+Changes in local and remote branch!
